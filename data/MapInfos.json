@@ -1,0 +1,11 @@
+[
+null,
+{"id":1,"expanded":true,"name":"わーい","order":1,"parentId":0,"scrollX":982.8,"scrollY":532.8},
+{"id":2,"expanded":false,"name":"たのしー","order":2,"parentId":1,"scrollX":982.8,"scrollY":532.8},
+{"id":3,"expanded":false,"name":"ひだりー！","order":3,"parentId":1,"scrollX":770.5714285714286,"scrollY":540.8571428571428},
+{"id":4,"expanded":false,"name":"みぎ","order":4,"parentId":1,"scrollX":832,"scrollY":640},
+{"id":5,"expanded":false,"name":"レストラン","order":5,"parentId":1,"scrollX":832,"scrollY":640},
+{"id":6,"expanded":false,"name":"みるな","order":6,"parentId":1,"scrollX":770.5714285714286,"scrollY":540.8571428571428},
+null,
+{"id":8,"expanded":false,"name":"セーフ","order":7,"parentId":1,"scrollX":832,"scrollY":640}
+]

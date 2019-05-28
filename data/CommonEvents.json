@@ -1,0 +1,10 @@
+[
+null,
+{"id":1,"list":[{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["これは寝室の鍵だ"]},{"code":0,"indent":0,"parameters":[]}],"name":"鍵","switchId":1,"trigger":0},
+{"id":2,"list":[{"code":223,"indent":0,"parameters":[[-68,-68,0,68],1,false]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["眠たくなった。"]},{"code":205,"indent":0,"parameters":[-1,{"list":[{"code":29,"parameters":[2],"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":true}]},{"code":505,"indent":0,"parameters":[{"code":29,"parameters":[2],"indent":null}]},{"code":121,"indent":0,"parameters":[7,7,0]},{"code":0,"indent":0,"parameters":[]}],"name":"睡眠薬を飲む","switchId":1,"trigger":0},
+{"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"カイロ","switchId":1,"trigger":0},
+{"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"出口の鍵","switchId":1,"trigger":0},
+{"id":5,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":6,"list":[{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["おまもりだ。"]},{"code":0,"indent":0,"parameters":[]}],"name":"おまもり","switchId":1,"trigger":0},
+{"id":7,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
+]
